@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nikitenich
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nikitenich.ru
+  * I am nikitenich (https://keybase.io/nikitenich) on keybase.
+  * I have a public key ASBrhy22hw4VwUzS9ndv5a9HSj_KUGPMea_yasv3st5vhQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206b872db6870e15c14cd2f6776fe5af474a3fca5063cc79aff26acbf7b2de6f850a",
+      "host": "keybase.io",
+      "kid": "01206b872db6870e15c14cd2f6776fe5af474a3fca5063cc79aff26acbf7b2de6f850a",
+      "uid": "d2d7d908bf5cc23af208632d5144b619",
+      "username": "nikitenich"
+    },
+    "merkle_root": {
+      "ctime": 1678295002,
+      "hash": "62fa93400a2f2671c1887bfffb476af6c36e549141bbc3c16f66cb2fc7c0dbe96139ba65b09e50165ff86fb1077c19af81c19875cf46ff6f0d769813e535e60a",
+      "hash_meta": "468c564475ebdbda3e70621b239b90008fcf198744696ff176c2291c6dc4592b",
+      "seqno": 24165692
+    },
+    "service": {
+      "entropy": "Mpx3hvaFa7a9Hg/1p0m8kCfv",
+      "hostname": "nikitenich.ru",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1678295023,
+  "expire_in": 504576000,
+  "prev": "d64074dc94785f2c6d3d239bd42a54c38d61fb1ce457cc1e30dbaa27516bcf4b",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEga4cttocOFcFM0vZ3b+WvR0o/ylBjzHmv8mrL97Leb4UKp3BheWxvYWTESpcCBsQg1kB03JR4XyxtPSOb1CpUw41h+xzkV8weMNuqJ1Frz0vEIB8pF6z44fg3v4c++dRsUfYxusZ39U+/EebpXtiaTR4OAgHCo3NpZ8RAynyuCsks+NZ6AZYaTtnSRVsT3csgMxsAEvtydpqqygxj1tuquqfpPrz9V0llXe1xYll9H9/BosYaSX44u9gRC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINpPsDtnKvv2VuFwmoHa3czb1qVluYWLGOiyPABOMVUlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nikitenich
+
+==================================================================
